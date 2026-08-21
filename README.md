@@ -2,6 +2,9 @@
 
 ![Portfolio Social Preview](./public/preview.webp)
 
+> **NOTE**
+> This repo is the previous Nuxt implementation of my personal site. It is no longer the production version and is kept public for reference.
+
 This is the code and content for my personal website, built in [Nuxt](https://nuxt.com/).
 
 > **NOTE**
