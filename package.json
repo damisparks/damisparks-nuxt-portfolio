@@ -1,7 +1,7 @@
 {
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@10.32.1+sha512.a706938f0e89ac1456b6563eab4edf1d1faf3368d1191fc5c59790e96dc918e4456ab2e67d613de1043d2e8c81f87303e6b40d4ffeca9df15ef1ad567348f2be",
+  "packageManager": "pnpm@10.34.5",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev -o",
@@ -33,7 +33,7 @@
     "@iconify-json/heroicons": "^1.2.2",
     "@iconify-json/lucide": "^1.2.96",
     "@iconify-json/simple-icons": "^1.2.73",
-    "@nuxt/eslint": "1.15.2",
+    "@nuxt/eslint": "1.17.0",
     "@nuxt/test-utils": "^4.0.0",
     "@tailwindcss/typography": "^0.5.16",
     "@vue/test-utils": "^2.4.6",
@@ -63,7 +63,7 @@
     ]
   },
   "resolutions": {
-    "unimport": "6.3.0"
+    "unimport": "6.4.0"
   },
   "simple-git-hooks": {
     "commit-msg": "npx commitlint --edit $1",
